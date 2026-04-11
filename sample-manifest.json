@@ -1,0 +1,12 @@
+{
+  "export_job_id": "58a89794-188c-4f90-8424-c312d2f7c093",
+  "id_short": 280033,
+  "published_at": "2026-04-11T07:20:26Z",
+  "repo_name": "all-restaurants-in-irvine-california-us-sample-280033",
+  "sample_asset_name": "beamstation_280033_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/280033/beamstation_280033_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "0fb861a81ca666d68b52dcd1ec55afb858737077ebfaa2bb0b2b13114ec9e929",
+  "sample_size_bytes": 115250,
+  "total_records": 551
+}
