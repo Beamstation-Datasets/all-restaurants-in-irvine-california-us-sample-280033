@@ -1,6 +1,6 @@
 # All Restaurants in Irvine, California, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 54 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `280033` |
 | Location | Irvine |
 | Category | Restaurants |
-| Full dataset size | 656 records |
-| Free sample size | 65 records (9.91%) |
-| Last export | 2026-04-21T16:58:22.444616+00:00 |
+| Full dataset size | 548 records |
+| Free sample size | 54 records (9.85%) |
+| Last export | 2026-04-28T17:57:14.804219+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-irvine-california-us-sample-280033/releases/download/sample-latest/beamstation_280033_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
